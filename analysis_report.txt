@@ -1,0 +1,25 @@
+------------------------------
+ANALYSIS REPORT
+------------------------------
+Total Records Processed: 36145
+Unique Repositories: 13
+
+ML Origin Bugs: 1530 (4.23%)
+SZZ Bug-Inducing Commits Found: 29461 (81.51%)
+------------------------------
+Repository Breakdown (Top 10)
+                                       total  ml_bugs
+repo_name                                            
+freqtrade/freqtrade                     6130      231
+psychopy/psychopy                       4386       42
+metabrainz/listenbrainz-server          3459        7
+CellProfiler/CellProfiler               3366       77
+nautechsystems/nautilus_trader          3277        5
+SanPen/GridCal                          2684      274
+OpenBB-finance/OpenBBTerminal           2509       49
+ilastik/ilastik                         2467      379
+electricitymap/electricitymap-contrib   1904       34
+mayan-edms/Mayan-EDMS                   1700       13
+------------------------------
+File Extension Analysis (Top 10 ML-Prone Types)
+.py    1530

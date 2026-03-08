@@ -1,0 +1,14 @@
+repo_name,total_files_in_repo,total_python_files,ml_python_files,non_ml_python_files
+CellProfiler/CellProfiler,1498,859,27,832
+electricitymap/electricitymap-contrib,1495,286,13,273
+freqtrade/freqtrade,762,468,46,422
+galaxyproject/galaxy,7755,2316,305,2011
+ilastik/ilastik,1923,839,95,744
+mayan-edms/Mayan-EDMS,5520,2203,21,2182
+metabrainz/listenbrainz-server,1902,610,5,605
+nautechsystems/nautilus_trader,4109,1048,12,1036
+OpenBB-finance/OpenBBTerminal,2226,1268,13,1255
+psychopy/psychopy,2097,652,5,647
+pupil-labs/pupil,348,303,39,264
+SanPen/Gridcal,2903,1341,93,1248
+SteveDoyle2/pyNastran,2901,1533,10,1523
